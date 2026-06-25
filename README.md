@@ -116,7 +116,7 @@ AI-Based Trading Recommendations
 
 Praveen kumar R
 
-GitHub: https://github.com/suryarp1580-cmyk
+GitHub: https://github.com/praveenrajesh1205-ai/stock-marketing-project.git
 
 One more suggestion: your repository currently contains two separate projects inside one repo. For a stronger portfolio, recruiters usually prefer:
 
